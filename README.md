@@ -2,7 +2,7 @@
 
 
 
-Latest update: December 4, 2021
+Latest update: September 5, 2022
 
 In order to fully protect your rights, we have updated the "TrackMyVitals Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
@@ -443,25 +443,30 @@ For issues related to this policy or personal information protection, we will re
 
 
 
+
 # Appendix 2  Instructions for Third-Party SDK Usage
 
 ### Android
 
-| Name                   | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed**                       | **Official Website**                   |
-| ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- |
-| Umeng SDK              | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 |
-| Google Maps SDK        | Google                                         | Used to display maps                                         | Device identification information, location information | https://developers.google.cn/maps/     |
-| Google positioning SDK | Google                                         | Used to realize positioning                                  | Device identification information, location information | ~~https://developers.google.cn/maps/~~ |
-| mob_sms SDK            | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information                               | https://www.mob.com/                   |
-
+| Name                   | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed**                       | **Official Website**                   | **Privacy Policy Link**                   |
+| ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- | -------------------------------------- |
+| Umeng SDK              | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 | https://lbs.amap.com/pages/privacy/                |
+| Google Maps SDK        | Google                                         | Used to display maps                                         | Device identification information, location information | https://developers.google.cn/maps/     | https://policies.google.cn/privacy    |
+| Google positioning SDK | Google                                         | Used to realize positioning                                  | Device identification information, location information | https://developers.google.cn/maps/ | https://policies.google.cn/privacy |
+| mob_sms SDK            | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information                               | https://www.mob.com/                   |https://www.mob.com/about/policy                   |
+| Amap Maps SDK           | Amap Software Co., Ltd. | Used to display maps                           | Device identification information, location information         | http://map.amap.com/doc/serviceitem.html           |  https://lbs.amap.com/pages/privacy/         |
+| Amap location SDK           | Amap Software Co., Ltd. | Used to realize positioning                           | Device identification information, location information                    |  http://map.amap.com/doc/serviceitem.html      |https://lbs.amap.com/pages/privacy/                   |
 
 
 ### iOS
 
-| Name        | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed** | **Official Website**   |
-| ----------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------- |
-| Umeng SDK   | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information | https://www.umeng.com/ |
-| mob_sms SDK | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information         | https://www.mob.com/   |
+| Name        | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed** | **Official Website**   | **Privacy Policy Link**                   |
+| ----------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------- | ---------------------- |
+| Umeng SDK   | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information | https://www.umeng.com/ | https://lbs.amap.com/pages/privacy/                |
+| mob_sms SDK | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information         | https://www.mob.com/   |https://www.mob.com/about/policy                   |
+| Amap Maps SDK           | Amap Software Co., Ltd. | Used to display maps                           | Device identification information, location information         | http://map.amap.com/doc/serviceitem.html           |  https://lbs.amap.com/pages/privacy/         |
+| Amap location SDK           | Amap Software Co., Ltd. | Used to realize positioning                           | Device identification information, location information                    |  http://map.amap.com/doc/serviceitem.html      |https://lbs.amap.com/pages/privacy/                   |
+
 
 
 
